@@ -2,7 +2,7 @@ Desarrollo web
 
 ![image](https://github.com/iviboot/011-DesarrolloWebReact/assets/126647369/c0be57de-d115-4d43-88c9-cb2663900c9f) ![image](https://github.com/iviboot/011-DesarrolloWebReact/assets/126647369/2acd9400-ef66-49b8-9f11-5579bdd835eb)
 
-![image](https://github.com/iviboot/011-DesarrolloWebReact/assets/126647369/a9ee4abb-c1a9-427d-a4cb-bf6aced89e06) ![image](https://github.com/iviboot/011-DesarrolloWebReact/assets/126647369/7bc5a2b0-c73e-4985-97c1-6f0b0e2134c2)
+![image](https://github.com/iviboot/011-DesarrolloWebReact/assets/126647369/a9ee4abb-c1a9-427d-a4cb-bf6aced89e06) 
 
 
 
