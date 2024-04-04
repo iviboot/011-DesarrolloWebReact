@@ -8,7 +8,8 @@ Desarrollo web
 
 
 
-![image](https://github.com/iviboot/011-DesarrolloWebReact/assets/126647369/f7d4ed17-3f95-4314-9b4d-5e05e3297a68)
+![image](https://github.com/iviboot/011-DesarrolloWebReact/assets/126647369/438d033a-09d0-49b4-8de5-b325d0774183)
+
 
 
 
